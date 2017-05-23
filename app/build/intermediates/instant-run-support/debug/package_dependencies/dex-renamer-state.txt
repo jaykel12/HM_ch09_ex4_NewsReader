@@ -1,0 +1,10 @@
+#Tue May 23 10:36:06 PDT 2017
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes2.dex
+base.2=C\:\\Users\\jayke\\Documents\\android\\HM_ch09_ex4_NewsReader (2)\\HM_ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_d4453594d9c5bf8f2a4c38042d0936f0247ef583
+base.1=C\:\\Users\\jayke\\Documents\\android\\HM_ch09_ex4_NewsReader (2)\\HM_ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4a37b04799101b486babb4d2c120e61019e949e5
+base.0=C\:\\Users\\jayke\\Documents\\android\\HM_ch09_ex4_NewsReader (2)\\HM_ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_2497dd5c3e4f7b185b30befeb8aa2b491689936a
+file.2=C\:\\Users\\jayke\\Documents\\android\\HM_ch09_ex4_NewsReader (2)\\HM_ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_d4453594d9c5bf8f2a4c38042d0936f0247ef583\\classes.dex
+file.1=C\:\\Users\\jayke\\Documents\\android\\HM_ch09_ex4_NewsReader (2)\\HM_ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4a37b04799101b486babb4d2c120e61019e949e5\\classes.dex
+file.0=C\:\\Users\\jayke\\Documents\\android\\HM_ch09_ex4_NewsReader (2)\\HM_ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_2497dd5c3e4f7b185b30befeb8aa2b491689936a\\classes.dex

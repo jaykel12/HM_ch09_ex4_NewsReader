@@ -1,0 +1,4 @@
+#Tue May 23 10:06:59 PDT 2017
+base.0=C\:\\Users\\jayke\\Documents\\android\\HM_ch09_ex4_NewsReader (2)\\HM_ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=C\:\\Users\\jayke\\Documents\\android\\HM_ch09_ex4_NewsReader (2)\\HM_ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex

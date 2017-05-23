@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jayke\Documents\android\HM_ch09_ex4_NewsReader (2)\HM_ch09_ex4_NewsReader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\jayke\Documents\android\HM_ch09_ex4_NewsReader (2)\HM_ch09_ex4_NewsReader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_85931aa8233462157f6c4868ecb573a75eeaeca1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jayke\Documents\android\HM_ch09_ex4_NewsReader (2)\HM_ch09_ex4_NewsReader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1714949cbd7135a3ee2d71258dabded409e7d50">
+        <dex dex="C:\Users\jayke\Documents\android\HM_ch09_ex4_NewsReader (2)\HM_ch09_ex4_NewsReader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6af425287f26b4f744e49690a4703a60e692fee6\classes.dex" />
+    </item>
+
+</items>
